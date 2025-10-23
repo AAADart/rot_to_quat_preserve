@@ -9,6 +9,10 @@ while preserving motion, continuity, and interpolation.
 
 ---
 
+
+https://github.com/user-attachments/assets/d2d18fc5-c956-4280-8ee0-24bf11f1bac6
+
+
 ## ✨ Features
 
 - 🧩 **Two modes:**  
